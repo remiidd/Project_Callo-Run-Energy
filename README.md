@@ -1,7 +1,8 @@
 # Project_Callo-Run-Energy
-A project that we made in class, we build a car control by a smartphone.
+Projet de 1ereSTI
+Controller une voitures grâce à son telephone.
 
 
-# Contributor
+# Devs
 
 Rémi Debray and Guilhem Quinio
